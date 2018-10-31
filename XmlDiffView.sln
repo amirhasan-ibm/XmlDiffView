@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDiffView", "..\..\..\..\MSDN\SQLXML Bulkload in .NET Code Sample\XmlDiffView.csproj", "{43CF8388-F6BE-48BD-A0DF-E599F67F72E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDiffView", "XmlDiffView.csproj", "{43CF8388-F6BE-48BD-A0DF-E599F67F72E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
